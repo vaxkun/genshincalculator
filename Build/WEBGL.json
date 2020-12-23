@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "VaxKun",
 "productName": "GenshinImpactCalculator",
-"productVersion": "0.1",
+"productVersion": "0.9",
 "dataUrl": "WEBGL.data.unityweb",
 "wasmCodeUrl": "WEBGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WEBGL.wasm.framework.unityweb",
